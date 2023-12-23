@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+''' Defines a function that provides stats of Nginx logs '''
 from pymongo import MongoClient
 
 
